@@ -4,20 +4,20 @@
 
 ## Projects
 
-- Alien Invasion Game | <i>Python</i> 
+- Alien Invasion Game &#8214; <i>Python</i> 
     - Developed a retro game featuring battleships engaging and neutralizing enemy UFOs.
     - Features a battleship with smooth left-right movement.
     - Escalating levels where each stage ramps up in difficulty with faster speeds.
     - Used Celery and Redis for asynchronous tasks
     - View project on GitHub
-- Razer Website Clone | <i>HTML, CSS</i>
+- Razer Website Clone &#8214; <i>HTML, CSS</i>
     - Cloned the Razer website using HTML and CSS, showcasing front-end skills.
     - Replicated a commercial site’s visual design with advanced CSS.
     - Employed creative techniques to match complex layouts.
-    - View project on GitHub
+    - View project on <a href="">Github</a>
 
 ## Course Completed
-- Crash Course on Python | <i>by Google on Coursera</i>
+- Crash Course on Python &#8214; <i>by Google on Coursera</i>
     - Developed foundational Python skills to write, test, and debug simple programs.
     - Gained hands-on coding experience through interactive exercises and real-world examples.
     - Solved complex problems by applying programming concepts and understanding code structure.

@@ -3,15 +3,18 @@
 
 @import "jekyll-theme-minimal";
 img{
-    border: 3px double #B9F5D8;
+    border: 5px double #6B8F71;
     border-radius: 50%;
 }
 body {
-    background-color: #1D1E18;
+    // background-color: #1D1E18;
+    background-color: #000100;
+    color:#ecfffa;
+    font-size: 16px;
 }
 h2{
-    color: #6B8F71;
+    color: #B9F5D8;
 }
-h2 ul{
-    color:#D9FFF5;
+.title{
+    color:#
 }
