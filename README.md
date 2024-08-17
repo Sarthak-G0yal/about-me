@@ -1,3 +1,5 @@
+<!-- <img src="https://github.com/Sarthak-G0yal/Sarthak-G0yal/raw/main/resource/profile_banner.png"> -->
+
 ## Education
 - Indian Institute of Information Technology, Dharwad 2023-27 
     - Bachelor of Technology in Computer Science and Engineering
