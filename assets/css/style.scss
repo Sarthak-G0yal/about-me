@@ -8,13 +8,26 @@ img{
 }
 body {
     // background-color: #1D1E18;
-    background-color: #000100;
-    color:#ecfffa;
+    background-color: #d9d9d9;
     font-size: 16px;
+    color: #5b5c5c;
+    font-weight: bold;
 }
 h2{
-    color: #B9F5D8;
+    color: #181D27;
+    margin-left: 5px;
+    margin-top: 5px;
+    margin-bottom: 0px;
 }
-.title{
-    color:#004FFF;
+
+a{
+    color: #345995;
+}
+section {
+    width: 550px;
+    float: right;
+    padding-bottom: 50px;
+    border-radius: 10px;
+    border: 2px solid black;
+    box-shadow: 2px 2px 2px 5px black;
 }

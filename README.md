@@ -9,12 +9,11 @@
     - Features a battleship with smooth left-right movement.
     - Escalating levels where each stage ramps up in difficulty with faster speeds.
     - Used Celery and Redis for asynchronous tasks
-    - View project on GitHub
+
 - Razer Website Clone &#8214; <i>HTML, CSS</i>
     - Cloned the Razer website using HTML and CSS, showcasing front-end skills.
     - Replicated a commercial site’s visual design with advanced CSS.
     - Employed creative techniques to match complex layouts.
-    - View project on <a href="">Github</a>
 
 ## Course Completed
 - Crash Course on Python &#8214; <i>by Google on Coursera</i>
