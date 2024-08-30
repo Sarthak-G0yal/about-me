@@ -3,8 +3,8 @@
 
 @import "jekyll-theme-minimal";
 
-#logo{
-    width:100%;
+#logo {
+    width: 100%;
     justify-content: center;
     border: 5px double white;
     border-radius: 50%;
@@ -13,27 +13,27 @@
 body {
     background-color: #0a0c10;
     font-size: 14px;
-    color: #c6cbd1;3784a51
+    color: #c6cbd1;
     font-weight: bold;
 }
-#description-para{
+#description-para {
     font-size: 12px;
 }
-.social-media{
+.social-media {
     display: flex;
     margin-bottom: 1em;
 }
-.social-media a{
+.social-media a {
     margin-left: 4px;
     margin-right: 4px;
 }
-h2{
+h2 {
     color: #fbfcfd;
     margin-left: 5px;
     margin-top: 5px;
     margin-bottom: 15px;
 }
-a{
+a {
     color: #60aeff;
 }
 section {
