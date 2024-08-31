@@ -3,3 +3,4 @@ logo: /assets/img/my_img.jpeg
 description: I'm a passionate web developer from India, committed to honing my skills through diverse projects and tackling new challenges. I also enjoy photography in my free time.
 show_downloads: false
 theme: jekyll-theme-minimal
+favicon: favicon.ico
